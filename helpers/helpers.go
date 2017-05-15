@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/google/certificate-transparency/go"
+	"github.com/google/certificate-transparency-go"
 	"golang.org/x/crypto/ocsp"
 
 	"strings"
